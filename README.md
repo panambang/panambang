@@ -13,8 +13,8 @@ I build REST and gRPC APIs, OAuth 2.0 authentication and microservices, then shi
 
 ### Tech
 
-**Backend:** Go, gRPC, REST, OAuth 2.0, PostgreSQL, MongoDB, DynamoDB, Redis, Kafka, Elasticsearch
-**DevOps:** Docker, Kubernetes, AWS, Terraform, GitHub Actions, Jenkins, GitLab CI, Prometheus, Grafana, Jaeger
+- **Backend:** Go, gRPC, REST, OAuth 2.0, PostgreSQL, MongoDB, DynamoDB, Redis, Kafka, Elasticsearch
+- **DevOps:** Docker, Kubernetes, AWS, Terraform, GitHub Actions, Jenkins, GitLab CI, Prometheus, Grafana, Jaeger
 
 ### More
 
