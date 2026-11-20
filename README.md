@@ -19,4 +19,5 @@ I build REST and gRPC APIs, OAuth 2.0 authentication and microservices, then shi
 ### More
 
 - Portfolio and case studies: [panambang.github.io](https://panambang.github.io)
-- Open to freelance and contract work
+- Reference project: [go-oauth2-server](https://github.com/panambang/go-oauth2-server), an OAuth 2.0 authorization server in Go
+- Open to freelance and contract work: [hire me on Fiverr](https://www.fiverr.com/purbopanambang)
